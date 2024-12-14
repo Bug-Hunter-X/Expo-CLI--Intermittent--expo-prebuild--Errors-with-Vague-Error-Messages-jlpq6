@@ -1,0 +1,4 @@
+While building an Expo project, I encountered an error related to the `expo prebuild` command.  The error message was vague and didn't pinpoint the exact issue, making debugging difficult. The error occurred intermittently, sometimes succeeding and other times failing without apparent changes to the codebase.  I've tried clearing the cache, reinstalling dependencies, and even creating a new project, but the problem persists. The specific error messages vary, but they often involve issues with native modules or build processes. Example of vague error messages:
+
+`Error: Something went wrong during the build process.`
+`Error: An unexpected error occurred while running the prebuild script.`
